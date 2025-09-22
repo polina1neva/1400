@@ -1,2 +1,3 @@
-number = input("Введите число: 123")
+number = input("Введите число: ")
 print("Вы вели число:", number)
+
