@@ -1,3 +1,4 @@
 number = input("Введите число: ")
-print("Вы вели число:", number)
+print("Вы ввели число:", number)
+
 
